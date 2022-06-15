@@ -1,0 +1,34 @@
+package Practice_swing;
+
+import java.awt.Container;
+import java.awt.FlowLayout;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+
+public class MyFrame extends JFrame{
+
+	MyFrame(){
+		
+		setTitle("첫번째 프레임");
+		setSize(300, 400);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		Container c = getContentPane();
+		c.setLayout(new FlowLayout());
+		
+		JButton j = new JButton("확인");
+		JButton j2 = new JButton("취소");
+		
+		c.add(j);
+		c.add(j2);
+		
+		JLabel l1 = new JLabel("이름");
+		
+		c.add(l1);
+		
+		setVisible(true);
+	}
+
+}

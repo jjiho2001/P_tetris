@@ -1,0 +1,36 @@
+# P_Tetris
+
+- Package : Practice_swing - Java_swing, Java_awt practice
+  - OperationMain.java - Main method
+  - 참조: [Java GUI, Swing 기초](https://k4keye.tistory.com/55)
+    - MyFrame.java
+    - MyFrameEx.java
+  - 참조 : [배치관리자(Layout)](https://m.blog.naver.com/javaking75/140157948347)
+    - BorderLayoutExam.java
+    - FlowLayoutExam.java
+    - GridLayoutExam.java
+    - PanelLayoutExam.java
+    - Login_window.java
+    - CheckBoxExam.java
+  - 참조 : [AWT component](https://m.blog.naver.com/javaking75/140157956681)
+    - TextExam.java
+- Package : Thread_Practice - Thread practice
+  - 참조 : [Thread](https://secretartbook.tistory.com/17)
+    - RunnableSample.java
+    - RunThreads.java
+    - RunThreads2.java
+    - ThreadSample.java
+  - 참조 : [multi-thread 개념](https://limkydev.tistory.com/48?category=957527)
+    - ThreadTest.java
+    - ThreadTestMain.java
+    - ThreadName.java
+    - ThreadNameMain.java
+  - 참조 : [익명객체란?](https://limkydev.tistory.com/226)
+- Package : Game_Basics
+  - 참조 : [Java games basics](https://zetcode.com/javagames/basics/)
+  - BasicApplication.java
+  - BasicBoard.java
+  - BasicMain.java
+  - DountBoard.java
+  - DountMain.java
+- 번외 : [람다식 -> 사용법](https://coding-factory.tistory.com/265), [함수식 인터페이스](https://codechacha.com/ko/java8-functional-interface/)
