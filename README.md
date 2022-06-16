@@ -33,4 +33,11 @@
   - BasicMain.java
   - DountBoard.java
   - DountMain.java
+- Default package
+  - 참조 : [Interface](https://doublesprogramming.tistory.com/157)
+  - InterfacePractice.java
+  - InterfacePractice2.java
+  - InterfacePractice3.java
+  - InterfacePractice4.java
+  - ObjectTest.java
 - 번외 : [람다식 -> 사용법](https://coding-factory.tistory.com/265), [함수식 인터페이스](https://codechacha.com/ko/java8-functional-interface/)
